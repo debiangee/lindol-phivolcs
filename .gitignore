@@ -1,0 +1,39 @@
+# Binaries and build artifacts
+*.exe
+*.out
+/lindol-api
+/server
+coverage.out
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Database and runtime data
+data/
+*.db
+*.sqlite
+*.sqlite3
+*.db-*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE and workspace metadata
+.vscode/
+.idea/
+.kiro/
+
+# HAR files and other local captures
+*.har
+
+# Dependencies and local tooling
+vendor/
+venv/
+__pycache__/
