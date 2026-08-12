@@ -340,3 +340,7 @@ This project is **unofficial** and not affiliated with PHIVOLCS or USGS. Data is
 ## License
 
 MIT
+
+---
+
+**Built by debiangee × Kiro**
